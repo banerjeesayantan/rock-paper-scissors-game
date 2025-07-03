@@ -1,2 +1,26 @@
 # rock-paper-scissors-game
- A fun and simple Rock Paper Scissors game built in C++ using clean logic, random number generation, and user input. Great for beginners to learn conditionals, loops, and basic game structure. Play against the computer and test your strategy in just a few lines of code!
+
+
+A fun and interactive command-line game where you challenge the computer to a quick match of Rock, Paper, Scissors. Written in C++, this project is perfect for beginners learning basic logic, conditionals, and user input.
+
+---
+
+## 🎮 Game Features
+- Play against a randomly generated computer move
+- Clean input-output interface
+- Win, lose, or draw messages
+- Loop to play multiple rounds
+
+---
+
+## 🛠️ Tech Used
+- Language: **C++**
+- Concepts: `if-else`, `switch`, `rand()`, `while` loop, `cin`/`cout`
+
+---
+
+## 🚀 How to Run the Game
+1. Open Terminal / Command Prompt
+2. Compile the code:
+   ```bash
+   g++ rock-paper-scissors.cpp -o rps
